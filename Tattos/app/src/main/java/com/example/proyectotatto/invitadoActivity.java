@@ -9,14 +9,6 @@ public class invitadoActivity extends AppCompatActivity {
 
     Fragment InicioFragment, CartasFragment, InteriorCartasFragment;
 
-    public void setFragmentVisibility(boolean isVisible) {
-        if (isVisible) {
-            getSupportFragmentManager().beginTransaction().show(CartasFragment).commit();
-        } else {
-            getSupportFragmentManager().beginTransaction().hide(CartasFragment).commit();
-        }
-    }
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

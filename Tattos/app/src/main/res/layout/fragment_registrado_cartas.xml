@@ -10,10 +10,32 @@
 android:layout_width="match_parent"
 android:layout_height="match_parent">
 
+<EditText
+    android:id="@+id/categoriaR"
+    android:layout_width="232dp"
+    android:layout_height="48dp"
+    android:layout_marginStart="28dp"
+    android:layout_marginTop="32dp"
+    android:ems="10"
+    android:hint="Animales, Ciencia Ficción"
+    android:textColor="@color/white"
+    android:textColorHint="@color/white"
+    android:inputType="text"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"/>
 
+    <Button
+        android:id="@+id/btnCategoria2R"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Buscar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.442"
+        app:layout_constraintStart_toEndOf="@+id/categoriaR"
+        app:layout_constraintTop_toTopOf="parent" />
 
-
-<TextView
+    <TextView
     android:id="@+id/carta2R"
     android:layout_width="143dp"
     android:layout_height="170dp"
