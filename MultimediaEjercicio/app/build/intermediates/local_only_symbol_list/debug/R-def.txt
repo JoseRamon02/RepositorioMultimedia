@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+dimen fab_margin
+drawable dragon_ball_logo
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable shenron
+id FirstFragment
+id SecondFragment
+id action_FirstFragment_to_SecondFragment
+id action_SecondFragment_to_FirstFragment
+id button
+id imageView2
+id nav_graph
+id vv
+layout activity_main
+layout activity_main2
+mipmap ic_launcher
+mipmap ic_launcher_round
+navigation nav_graph
+raw porta
+raw tpgoku
+string app_name
+string first_fragment_label
+string lorem_ipsum
+string next
+string previous
+string second_fragment_label
+string title_activity_main2
+style Base.Theme.AppCompat.Light.NoActionBar
+style Base.Theme.MyApplication
+style Theme.AppCompat.Light.NoActionBar
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules

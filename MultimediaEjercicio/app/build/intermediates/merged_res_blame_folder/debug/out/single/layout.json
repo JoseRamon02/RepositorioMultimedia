@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\DAM\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-42:\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\DAM\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-45:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "com.example.myapplication.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DAM\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-42:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\DAM\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-45:\\layout\\activity_main.xml"
+    }
+]

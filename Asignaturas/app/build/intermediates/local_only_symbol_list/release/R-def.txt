@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id Asignatura1
+id Asignatura2
+id Asignatura3
+id botonVolver
+id editTextText1
+id editTextText2
+id editTextText3
+id media
+id resolver
+id textView
+id textView2
+id texto
+layout activity_main
+layout activity_main2
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Asignaturas
+style Theme.Asignaturas
+xml backup_rules
+xml data_extraction_rules
